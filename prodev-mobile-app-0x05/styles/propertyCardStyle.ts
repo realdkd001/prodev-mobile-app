@@ -69,7 +69,6 @@ const styles = StyleSheet.create({
     group: {
       position: "absolute",
       bottom: 30,
-     
       paddingHorizontal: 10
     },
   });

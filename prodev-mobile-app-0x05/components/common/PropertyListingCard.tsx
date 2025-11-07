@@ -34,6 +34,7 @@ const PropertyListingCard: React.FC<PropertyListingProps> = ({
             <MaterialIcons name="star-rate" size={40} color="#FAC02B" />
             <Text style={styles.rateText}>{rate}</Text>
           </View>
+
           <View style={styles.cardGroup}>
             <View style={styles.cardTextGroup}>
               <Text style={styles.cardLargeText}>{propertyName}</Text>
@@ -48,6 +49,7 @@ const PropertyListingCard: React.FC<PropertyListingProps> = ({
               </Text>
             </View>
           </View>
+          
         </View>
       </View>
     </ImageBackground>
