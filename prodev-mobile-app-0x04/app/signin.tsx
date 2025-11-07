@@ -1,4 +1,4 @@
-import { styles } from "@/styles/_signinstyle";
+import { styles } from "@/styles/_signin";
 import { FontAwesome, Ionicons } from "@expo/vector-icons";
 import { Image, Text, TextInput, TouchableOpacity, View } from "react-native";
 import { SafeAreaProvider, SafeAreaView } from "react-native-safe-area-context";
