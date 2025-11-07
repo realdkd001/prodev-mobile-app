@@ -10,8 +10,8 @@ export default function () {
       <SafeAreaView style={styles.container}>
         <View style={styles.navGroup}>
           <Ionicons name="arrow-back" size={25} />
-          <Image source={require("@/assets/images/Logo.png")} />
-        </View>
+          <Image source={require("@/assets/images/logo.png")} />
+        </View>l
 
         <Text style={styles.largeText}>Sign in to your</Text>
         <Text style={styles.largeText} >Account</Text>
